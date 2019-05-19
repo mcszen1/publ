@@ -2,14 +2,9 @@ name: env2
 channels:
   - defaults
 dependencies:
-  - beautifulsoup4=4.7.1
-  - blas=1.0
-  - certifi=2019.3.9
-  - icc_rt=2019.0.0
-  - intel-openmp=2019.3
-  - mkl=2019.3
-  - mkl_fft=1.0.12
-  - mkl_random=1.0.2
+  - beautifulsoup4
+  - blas
+  - certifi
   - numpy=1.16.3
   - numpy-base=1.16.3
   - pandas=0.24.2
@@ -20,9 +15,6 @@ dependencies:
   - setuptools=41.0.1
   - six=1.12.0
   - soupsieve=1.8
-  - vc=14.1
-  - vs2015_runtime=14.15.26706
-  - wheel=0.33.4
   - wincertstore=0.2
   - pip:
     - attrs==19.1.0
@@ -44,7 +36,7 @@ dependencies:
     - jupyter-client==5.2.4
     - jupyter-console==6.0.0
     - jupyter-core==4.4.0
-    - lxml==4.3.3
+    - lxml
     - markupsafe==1.1.1
     - mistune==0.8.4
     - nbconvert==5.5.0
@@ -69,3 +61,4 @@ dependencies:
     - webencodings==0.5.1
     - widgetsnbextension==3.4.2
 prefix: C:\Users\Reborn\Anaconda3\envs\env2
+

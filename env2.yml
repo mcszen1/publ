@@ -3,7 +3,6 @@ channels:
   - defaults
 dependencies:
   - beautifulsoup4=4.7.1
-  - lxml
   - blas=1.0
   - certifi=2019.3.9
   - icc_rt=2019.0.0
@@ -70,4 +69,3 @@ dependencies:
     - webencodings==0.5.1
     - widgetsnbextension==3.4.2
 prefix: C:\Users\Reborn\Anaconda3\envs\env2
-
